@@ -14,4 +14,4 @@ As part of my internship, I was assigned the task of performing sales analysis o
 
 ## Tools and Technologies Used
 
-**Python**-
+- Python-
